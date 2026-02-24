@@ -40,6 +40,7 @@ public class MagicLibrary {
 		log.info("Traza añadida en la rama local Practica8");
 		log.info("Traza 2");
 		log.info("info añadida en main");
+		log.info("info añadida en practica8");
 		log.info("Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 		log.log(Level.INFO, "Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 
