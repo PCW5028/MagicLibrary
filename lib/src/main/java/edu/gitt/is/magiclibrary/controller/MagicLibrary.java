@@ -38,7 +38,7 @@ public class MagicLibrary {
 	public static void main(String[] args) {
 		
 
-		log.info("Nuevo comentario en mainn");
+		log.info("Nuevo comentario en mainn2");
 
 		log.info("Nuevo comentario en nueva");
 
