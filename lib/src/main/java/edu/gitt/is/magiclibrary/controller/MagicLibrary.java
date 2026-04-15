@@ -37,7 +37,11 @@ public class MagicLibrary {
 	 */
 	public static void main(String[] args) {
 		
+<<<<<<< HEAD
 		log.info("Nuevo comentario en mainn");
+=======
+		log.info("Nuevo comentario en nueva");
+>>>>>>> refs/heads/nueva
 		log.info("Traza 2");
 		log.info("info añadida en main");
 		log.info("info añadida en practica8");
